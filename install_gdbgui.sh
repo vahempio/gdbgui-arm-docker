@@ -1,8 +1,8 @@
 #!/bin/sh
 
-GDBGUI_URL="https://gdbgui.com/downloads/linux/gdbgui_0.11.1.2"
+GDBGUI_URL="https://gdbgui.com/downloads/linux/gdbgui_0.12.0.0"
 GDBGUI_FILE="gdbgui"
-GDBGUI_MD5="13eb2ccdbadd637c8d7f4bbbaa263047"
+GDBGUI_MD5="4433beb6d89b94345f6890d98d0b2de4"
 
 wget -nv -O $GDBGUI_FILE $GDBGUI_URL
 
